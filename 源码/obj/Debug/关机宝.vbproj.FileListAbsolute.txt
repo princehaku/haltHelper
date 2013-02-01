@@ -1,0 +1,14 @@
+E:\release\关机宝-vbnet\源码\obj\Debug\关机宝.exe
+E:\release\关机宝-vbnet\源码\obj\Debug\关机宝.xml
+E:\release\关机宝-vbnet\源码\obj\Debug\关机宝.pdb
+E:\release\关机宝-vbnet\源码\bin\Debug\关机宝.exe.manifest
+E:\release\关机宝-vbnet\源码\bin\Debug\关机宝.application
+E:\release\关机宝-vbnet\源码\bin\Debug\关机宝.exe
+E:\release\关机宝-vbnet\源码\bin\Debug\关机宝.pdb
+E:\release\关机宝-vbnet\源码\bin\Debug\关机宝.xml
+E:\release\关机宝-vbnet\源码\obj\Debug\ResolveAssemblyReference.cache
+E:\release\关机宝-vbnet\源码\obj\Debug\关机宝.Form1.resources
+E:\release\关机宝-vbnet\源码\obj\Debug\关机宝.Resources.resources
+E:\release\关机宝-vbnet\源码\obj\Debug\关机宝.vbproj.GenerateResource.Cache
+E:\release\关机宝-vbnet\源码\obj\Debug\关机宝.exe.manifest
+E:\release\关机宝-vbnet\源码\obj\Debug\关机宝.application
